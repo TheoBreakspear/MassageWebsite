@@ -129,8 +129,7 @@ header{
 	align-content: center;
 	flex-direction: column;
 
-	height: calc(100vh - 7.5rem); /*veiwport-header*/
-	background-attachment: fixed; 
+	height: calc(100vh - 7.5rem); /*veiwport-header*/ 
 
 	background-image: url("hero-image.jpg");
 	background-color: #cccccc; 
